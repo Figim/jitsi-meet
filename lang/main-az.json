@@ -135,13 +135,13 @@
         "everyone": "Hər kəs",
         "fieldPlaceHolder": "Aa",
         "fileAccessibleTitle": "{{user}} fayl yüklədi",
-        "fileAccessibleTitleMe": "Mən fayl yüklədim",
+        "fileAccessibleTitleMe": "me uploaded a file",
         "fileDeleted": "Fayl silindi",
         "guestsChatIndicator": "(qonaq)",
         "lobbyChatMessageTo": "{{recipient}} istifadəçisinə gözləmə zalı mesajı",
         "message": "Mesaj",
         "messageAccessibleTitle": "{{user}} deyir:",
-        "messageAccessibleTitleMe": "Mən deyirəm:",
+        "messageAccessibleTitleMe": "me says:",
         "messageCopied": "Mesaj kopyalandı",
         "messageTo": "{{recipient}} istifadəçisinə şəxsi mesaj",
         "messagebox": "Mesaj yazın",
@@ -186,12 +186,12 @@
         "systemDisplayName": "Sistem",
         "tabs": {
             "chat": "Söhbət",
-            "closedCaptions": "Subtitrlər",
+            "closedCaptions": "CC",
             "fileSharing": "Fayllar",
             "polls": "Sorğular"
         },
         "title": "Söhbət",
-        "titleWithCC": "Subtitrlər",
+        "titleWithCC": "CC",
         "titleWithFeatures": "Söhbət və",
         "titleWithFileSharing": "Fayllar",
         "titleWithPolls": "Sorğular",
@@ -274,7 +274,7 @@
     },
     "customPanel": {
         "close": "Bağla",
-        "title": "Sİ Köməkçisi"
+        "title": "AI Assist"
     },
     "dateUtils": {
         "earlier": "Daha əvvəl",
@@ -1117,10 +1117,10 @@
             "title": "Bu səsverməyə son verilsin?"
         },
         "errors": {
-        "closeFailed": "Səsvermə sonlandırıla bilmədi",
-        "notUniqueOption": "Seçimlər unikal olmalıdır",
-        "voteFailed": "Səsiniz nəzərə alınmadı",
-        "voteNotCounted": "Səsiniz nəzərə alınmadı, səsvermə başa çatdı"
+            "closeFailed": "Səsvermə sonlandırıla bilmədi",
+            "notUniqueOption": "Seçimlər unikal olmalıdır",
+            "voteFailed": "Səsiniz nəzərə alınmadı",
+            "voteNotCounted": "Səsiniz nəzərə alınmadı, səsvermə başa çatdı"
         },
         "notification": {
             "description": "Səs vermək üçün sorğular vərəqini açın",
